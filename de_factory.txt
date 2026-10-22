@@ -1,0 +1,21 @@
+Factory - Bomb/Defuse (5 vs 5)
+
+Converted from the local Minecraft world de_factory.
+Scale: one block = 44 GoldSrc units.
+
+Terrorists: Start at the five rooftop bed positions.
+Plant the C4 at either former beacon location.
+
+Counter-Terrorists: Start at the five front-gate bed positions.
+Prevent the bombing or defuse the planted C4.
+
+A: Western production area.
+B: Eastern production area.
+
+All iron doors are permanently shut and solid. Wooden doors are removed.
+Both teams have buy zones at their spawn area.
+Windows are unbreakable. The original ladder is climbable.
+Railings have narrow gaps and solid player collision, including crouching.
+
+Original game textures are embedded in the BSP.
+The Minecraft world is preserved separately and unchanged.
